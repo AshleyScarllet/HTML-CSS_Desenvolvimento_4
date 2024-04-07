@@ -1,0 +1,25 @@
+header{
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    background-color:#1e0c3e;
+    justify-content: space-between;
+    align-items:center;
+    padding: 2px 550px;
+    color: white;
+    display: flex;
+}
+.titulo img{
+    width: 100px;
+}
+body{
+    background-color: rgb(223, 223, 245);
+}
+body img{
+    width: 200px;
+}
+footer{
+    text-align: center;
+    background-color: #1e0c3e;
+    color: white;
+}
