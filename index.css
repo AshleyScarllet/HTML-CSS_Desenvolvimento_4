@@ -12,6 +12,15 @@ div.titulo img{
     width: 100px;
 
 }
+div.nav button{
+    background-color: #a67cef;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
+div.nav button:hover{
+    background-color: #d7c6f6;
+}
 body{
     background-color: #d7c6f6;
 }
