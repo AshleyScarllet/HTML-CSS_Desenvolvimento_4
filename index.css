@@ -12,13 +12,19 @@ header{
     width: 100px;
 }
 body{
-    background-color: rgb(223, 223, 245);
+    background-color: #dfd8eb;
 }
 body img{
     width: 200px;
 }
 footer{
     text-align: center;
-    background-image: linear-gradient(to bottom, #1e0c3e,#300679 );
+    background-image: linear-gradient(to bottom, #1e0c3e,#8448ec );
     color: white;
+}
+a:link {
+    color: #dfd8eb;
+}
+  a:visited {
+    color: black; 
 }
