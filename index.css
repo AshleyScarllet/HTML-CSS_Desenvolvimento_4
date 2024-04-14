@@ -24,6 +24,9 @@ div.nav button:hover{
 body{
     background-color: #d7c6f6;
 }
+body a{
+    color: black;
+}
 body img{
     width: 200px;
 }
