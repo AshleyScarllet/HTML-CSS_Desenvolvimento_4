@@ -2,7 +2,7 @@ header{
     font-family: Arial, sans-serif;
     font-size: 10px;
     line-height: 1.5;
-    background-image: linear-gradient(to bottom, #1e0c3e,#300679 );
+    background-image: linear-gradient(to bottom, #530dca,#a67cef);
     justify-content: space-between;
     align-items:center;
     color: white;
@@ -12,19 +12,21 @@ header{
     width: 100px;
 }
 body{
-    background-color: #dfd8eb;
+    background-color: #d7c6f6;
 }
 body img{
     width: 200px;
 }
+div.box {
+    width: 200px;
+    height: 10px;
+    display: inline-block;
+}
 footer{
     text-align: center;
-    background-image: linear-gradient(to bottom, #1e0c3e,#8448ec );
+    background-image: linear-gradient(to bottom,  #530dca,#a67cef);
     color: white;
 }
-a:link {
-    color: #dfd8eb;
-}
-  a:visited {
-    color: black; 
+a:hover {
+    color: white;
 }
