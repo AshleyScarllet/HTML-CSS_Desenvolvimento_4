@@ -1,3 +1,10 @@
+body{
+    margin: 0px;
+    background-color: #d7c6f6;
+}
+body a{
+    color: black;
+}
 header{
     font-family: Arial, sans-serif;
     font-size: 10px;
@@ -7,6 +14,9 @@ header{
     align-items:center;
     color: white;
     text-align:center;
+}
+h1{
+    margin: 0%;
 }
 div.titulo img{
     width: 100px;
@@ -21,13 +31,10 @@ div.nav button{
 div.nav button:hover{
     background-color: #d7c6f6;
 }
-body{
-    background-color: #d7c6f6;
+main{
+    margin: 8px;
 }
-body a{
-    color: black;
-}
-body img{
+main img{
     width: 200px;
 }
 div.box {
@@ -36,9 +43,17 @@ div.box {
     display: inline-block;
 }
 footer{
+    padding: 10px;
     text-align: center;
     background-image: linear-gradient(to bottom,  #530dca,#a67cef);
     color: white;
+}
+div.roda_pe{
+    padding: 10px;
+    margin: 0%;
+}
+#rp_1{
+ margin: 0%;
 }
 a:hover {
     color: white;
